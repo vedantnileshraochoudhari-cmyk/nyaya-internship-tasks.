@@ -1,0 +1,11 @@
+{
+  "SEND_NOTICE": [
+    "Rental agreement copy",
+    "Payment receipts",
+    "Tenant communication records"
+  ],
+  "FILE_CASE": [
+    "Identity proof",
+    "Property ownership document"
+  ]
+}

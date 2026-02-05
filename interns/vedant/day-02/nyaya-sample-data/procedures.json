@@ -1,0 +1,21 @@
+{
+  "SEND_NOTICE": [
+    "Draft legal notice",
+    "Send notice to landlord",
+    "Wait for response"
+  ],
+
+  "FILE_CASE": [
+    "Prepare complaint documents",
+    "Submit case to Rent Authority"
+  ],
+
+  "ATTEND_HEARING": [
+    "Present evidence",
+    "Respond to arguments"
+  ],
+
+  "RECEIVE_DECISION": [
+    "Receive final judgment"
+  ]
+}

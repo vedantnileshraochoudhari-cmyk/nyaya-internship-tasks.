@@ -1,0 +1,8 @@
+{
+  "IN_RENT_EVICTION": [
+    "SEND_NOTICE",
+    "FILE_CASE",
+    "ATTEND_HEARING",
+    "RECEIVE_DECISION"
+  ]
+}

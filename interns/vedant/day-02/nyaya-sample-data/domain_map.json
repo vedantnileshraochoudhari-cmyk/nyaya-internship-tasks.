@@ -1,0 +1,7 @@
+{
+  "IN_RENT_EVICTION": {
+    "country": "IN",
+    "domain": "rent",
+    "description": "Tenant eviction dispute"
+  }
+}
